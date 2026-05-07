@@ -1,0 +1,25 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio / VS Code local state
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / ReSharper
+.idea/
+_ReSharper*/
+*.DotSettings.user
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
