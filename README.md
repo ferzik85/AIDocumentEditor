@@ -24,7 +24,8 @@ Required values:
 
 ```env
 ANTHROPIC_API_KEY=your_api_key_here
-CLAUDE_MODEL=claude-sonnet-4-5
+CLAUDE_MODEL=claude-haiku-4-5
+CLAUDE_MODEL=claude-sonnet-4-6 (more capabilities)
 ```
 
 ## Run
